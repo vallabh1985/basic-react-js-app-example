@@ -1,9 +1,13 @@
+Basic React application using  parent and child components.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## cloning and Running the application
+download or clone the repo, On command prompt go to basic-react-js-app-example folder.
+use below command to install the dependent files.
+### `npm install`
 
-In the project directory, you can run:
-
+For running the application. Run below command
 ### `npm start`
 
 Runs the app in the development mode.<br />
