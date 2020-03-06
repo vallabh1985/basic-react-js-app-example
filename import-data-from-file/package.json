@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/vallabh1985/basic-react-js-app-example",
-  "name": "simple-hello-world-app",
+  "homepage": "https://github.com/vallabh1985/import-data-from-file",
+  "name": "import-data-from-file",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:vallabh1985/basic-react-js-app-example.git"
+    "url": "git@github.com:vallabh1985/import-data-from-file.git"
   },
   "keywords": [
     "react",
